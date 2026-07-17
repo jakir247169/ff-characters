@@ -4,7 +4,7 @@
 
 ## 📦 ইমেজ দেখার লিংক
 
-https://cdn.jsdelivr.net/gh/YOUR_USERNAME/ff-characters@main/images/alok.png
+https://cdn.jsdelivr.net/gh/jakir247169/ff-characters@main/images/alok.png
 
 ## 📋 ক্যারেক্টার লিস্ট
 
@@ -56,5 +56,5 @@ https://cdn.jsdelivr.net/gh/YOUR_USERNAME/ff-characters@main/images/alok.png
 ## 🚀 ব্যবহার
 
 ```python
-CHARACTER_CDN = "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/ff-characters@main/images/"
+CHARACTER_CDN = "https://cdn.jsdelivr.net/gh/jakir247169/ff-characters@main/images/"
 url = f"{CHARACTER_CDN}{character_name.lower()}.png"
